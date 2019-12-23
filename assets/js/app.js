@@ -12,11 +12,6 @@ $(function() {
         
         scrollOffset = $(this).scrollTop();
         checkScroll(scrollOffset);
-        
-        
-        //console.log(scrollOffset);
-        
-        
     });
     
     function checkScroll(scrollOffset) {
@@ -83,9 +78,3 @@ $(function() {
     });
     
 });
-
-
-
-
-
-
