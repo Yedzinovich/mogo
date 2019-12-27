@@ -4,7 +4,7 @@ This is a single-page HTML/CSS responsive web application template. It was crea
 
 ## Where to find it?
 
-Just click on [MoGo](https://innawebdev.offyoucode.co.uk/active-box/)! 
+Just click on [MoGo](https://innawebdev.offyoucode.co.uk/mogo/)! 
 
 ## Built With
 <ul>
